@@ -5,7 +5,8 @@
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/ios/50/000000/java-coffee-cup-logo--v1.png"/>
-  <img src="https://w7.pngwing.com/pngs/911/515/png-transparent-figma-logo-brand-logos-brands-in-colors-icon-thumbnail.png"/>
+  <img src="![image](https://github.com/AmishaGuddi/AmishaGuddi/assets/88842082/d7f46291-54b8-44ba-8e58-8b5d8f517615)
+"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img src=""/>
